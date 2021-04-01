@@ -4,8 +4,8 @@
   "description": "Social Network",
   "main": "server.js",
   "scripts": {
-    "start": "node server", 
-    "server" : "nodemon" 
+    "start": "node server",
+    "server": "nodemon"
   },
   "author": "Taher Ben Abdallah",
   "license": "MIT",
@@ -16,6 +16,7 @@
     "express-validator": "^6.10.0",
     "gravatar": "^1.8.1",
     "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.5",
     "mongoose": "^5.12.1",
     "request": "^2.88.2"
   },
