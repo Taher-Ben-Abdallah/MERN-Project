@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://Taher23:Operamini23@devconnector.jdm0o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://Taher23:Operamini23@devconnector.jdm0o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
 }
