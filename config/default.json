@@ -1,4 +1,6 @@
 {
     "mongoURI" : "mongodb+srv://Taher23:Operamini23@devconnector.jdm0o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret" : "mysecrettoken"
+    "jwtSecret" : "mysecrettoken",
+    "githubClientId" : "2cfb4cffca891b50b945",
+    "githubSecret" : "0d6a91433217ff251032728ba2e8f048de8b04b5"
 }
